@@ -134,6 +134,7 @@ public class Main {
         sc.close();
     }
 }
+output
 ===== BANKING TRANSACTION SYSTEM =====
 Enter Account Number: 12345
 Enter Account Holder Name: likil
